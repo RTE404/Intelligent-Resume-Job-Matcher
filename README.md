@@ -136,7 +136,7 @@ See full system writeup: [PROJECT_WRITEUP.docx](project_writeup.docx)
 ## 🔹 Setup Instructions
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/RTE404/Intelligent-Resume-Job-Matcher.git
 cd resume-job-matcher
 python -m venv .venv
 .venv\Scripts\activate
