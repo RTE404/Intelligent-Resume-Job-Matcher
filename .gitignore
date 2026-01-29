@@ -4,3 +4,4 @@ __pycache__/
 .env
 data/raw/
 data/processed/
+qdrant_data/
