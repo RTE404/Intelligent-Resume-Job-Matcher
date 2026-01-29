@@ -138,7 +138,7 @@ python -m venv .venv
 .venv\Scripts\activate
 python -m pip install -r requirements.txt
 
-
+```
 ---
 
 ## 🔹 Evaluation
@@ -190,14 +190,6 @@ This system retrieves relevant evidence before LLM reasoning, ensuring grounded,
 - Authentication & user accounts
 
 ---
-
-
-Save file.
----
-
-## 🔹 Author
-
-Rohan Tiwari
 
 
 
