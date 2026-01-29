@@ -7,6 +7,10 @@ Backend API (FastAPI): Coming Soon
 
 An end-to-end Retrieval-Augmented Generation (RAG) system that semantically matches resumes to job descriptions, explains fit or mismatch, identifies missing skills, and grounds all LLM outputs in retrieved evidence.
 
+## 📄 Detailed Documentation
+
+See full system writeup: [PROJECT_WRITEUP.docx](project_writeup.docx)
+
 ---
 
 ## 🔹 Key Features
