@@ -192,6 +192,14 @@ This system retrieves relevant evidence before LLM reasoning, ensuring grounded,
 ---
 
 
+🔹 How to run in local?
+
+- For UI: streamlit run ui/app.py
+- For backend: uvicorn api.main:app --reload
+
+---
+
+
 
 
 
