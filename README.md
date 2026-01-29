@@ -5,9 +5,6 @@
 Frontend (Streamlit UI): Coming Soon  
 Backend API (FastAPI): Coming Soon  
 
-GitHub Repository:
-https://github.com/<RTE404>/Intelligent Resume-Job-Matcher
-
 An end-to-end Retrieval-Augmented Generation (RAG) system that semantically matches resumes to job descriptions, explains fit or mismatch, identifies missing skills, and grounds all LLM outputs in retrieved evidence.
 
 ---
