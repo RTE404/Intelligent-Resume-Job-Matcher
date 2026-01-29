@@ -1,5 +1,13 @@
 # Intelligent Resume–Job Matching & Skill Gap Analysis (RAG-Powered)
 
+## 🔗 Live Links
+
+Frontend (Streamlit UI): Coming Soon  
+Backend API (FastAPI): Coming Soon  
+
+GitHub Repository:
+https://github.com/<RTE404>/Intelligent Resume-Job-Matcher
+
 An end-to-end Retrieval-Augmented Generation (RAG) system that semantically matches resumes to job descriptions, explains fit or mismatch, identifies missing skills, and grounds all LLM outputs in retrieved evidence.
 
 ---
@@ -18,6 +26,8 @@ An end-to-end Retrieval-Augmented Generation (RAG) system that semantically matc
 ---
 
 ## 🔹 Architecture Overview
+
+![Architecture Diagram](assets/architecture.png)
 
                    ┌─────────────────────┐
                    │  Resume PDF / Text  │
@@ -133,6 +143,15 @@ python -m pip install -r requirements.txt
 
 
 ---
+
+## 🔹 Evaluation
+
+- Retrieval quality measured using Recall@K and Precision@K  
+- Faithfulness validated by checking all citations refer to retrieved evidence  
+- LLM outputs forced to use evidence-only context  
+
+This ensures reliable and explainable generation.
+
 
 🔹 API Endpoint
 
